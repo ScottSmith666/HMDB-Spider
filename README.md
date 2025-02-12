@@ -26,11 +26,11 @@ Python的安装方法网上一堆，可以自行去互联网上检索。Python�
 
 ### 这里注意，Windows 10需要先按住Shift键的同时再在空白处右键，选择“在PowerShell中打开”。
 
-发现打开了黑窗口，在其中输入`pip install -r requirements.txt`，然后回车，不报错（Error）即为安装成功。
+发现打开了终端（黑窗口），在其中输入`pip install -r requirements.txt`，然后回车，不报错（Error）即为安装成功。
 ![image](https://github.com/user-attachments/assets/cdce6d91-32e0-447c-860d-c836ad9422a1)
 
 ## 4. 准备好本程序需要的输入文件
-本程序所需输入表格文件的格式为csv，分隔符为逗号而不是其他符号。表头必须包括`id`、`polar`、`mz`、`addt`、`tor`和`unit`这六个字段，允许包含其他字段，不用去除。
+本程序所需输入表格文件的格式为`csv`，分隔符为`逗号`而`不是其他符号`。表头必须包括`id`、`polar`、`mz`、`addt`、`tor`和`unit`这六个字段，允许包含其他字段，不用去除。
 
 这六个字段分别代表“代谢峰的id”“质谱极性”“质荷比”“加合类别（Adduct Type）”“允许的误差”和“误差单位”
 
@@ -46,3 +46,11 @@ Python的安装方法网上一堆，可以自行去互联网上检索。Python�
 | 104 | positive | 318.2998779 | M+H | 5 | ppm | ... |
 | 8057 | negative | 487.322269 | M-H | 5 | ppm | ... |
 | ... | ... | ... | ... | ... | ... | ... |
+
+## 5. 运行本程序
+将准备好的csv表格文件放入根目录中的`origin_read_data`文件夹中。
+
+然后根据第3节的方法打开终端，输入`python query_metab_name.py`，回车。
+
+然后耐心等待本程序运行完毕！enjoy it~
+
