@@ -54,3 +54,7 @@ Python的安装方法网上一堆，可以自行去互联网上检索。Python�
 
 然后耐心等待本程序运行完毕！enjoy it~
 
+运行效果：
+![屏幕截图 2025-02-12 203610](https://github.com/user-attachments/assets/a261ba36-99c5-4a01-bd71-9edd1dae1b9c)
+
+### 如果本程序有解决了一些你生活中的小烦恼，不妨请Scott Smith喝杯咖啡吧[Doge]
