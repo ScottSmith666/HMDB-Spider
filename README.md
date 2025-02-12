@@ -8,3 +8,4 @@
 鼠标点击右边“code”绿色按钮，展开菜单栏，点击“Download zip”下载压缩包，在你的PC上解压缩。
 ![image](https://github.com/user-attachments/assets/5649e1e2-0cfc-4153-8d68-80d6ff656834)
 
+或者在终端用命令`git clone `
