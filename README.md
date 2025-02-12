@@ -9,3 +9,6 @@
 ![image](https://github.com/user-attachments/assets/5649e1e2-0cfc-4153-8d68-80d6ff656834)
 
 或者在终端用命令`git clone https://github.com/ScottSmith666/HMDB-Spider.git`直接克隆至你的PC上也可。
+
+## 2. 安装Python
+Python的安装方法网上一堆，可以自行去互联网上检索。Python版本大致在3.10至3.12即可，本人设备上的Python版本是3.12。
