@@ -12,3 +12,7 @@
 
 ## 2. 安装Python
 Python的安装方法网上一堆，可以自行去互联网上检索。Python版本大致在3.10至3.12即可，本人设备上的Python版本是3.12。
+
+## 3. 安装本程序用到的依赖
+进入本程序项目的根目录，能看到这些文件：
+![image](https://github.com/user-attachments/assets/bd650ab8-bf25-4be8-b2b0-8f20b8ad7097)
