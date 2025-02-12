@@ -24,3 +24,8 @@ Python的安装方法网上一堆，可以自行去互联网上检索。Python�
 
 ### 这里注意，Windows 10需要先按住Shift键的同时再在空白处右键，选择“在PowerShell中打开”
 
+发现打开了黑窗口，在其中输入`pip install -r requirements.txt`，然后回车，不报错（Error）即为安装成功。
+![image](https://github.com/user-attachments/assets/cdce6d91-32e0-447c-860d-c836ad9422a1)
+
+## 4. 准备好本程序需要的输入文件
+本程序所需输入表格文件的格式为csv，分隔符为逗号而不是其他符号。表头必须包括`id`、`polar`、`mz`、`addt`、`tor`和`unit`这六个字段，允许包含其他字段，不用去除。这六个字段分别代表
