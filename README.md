@@ -5,4 +5,6 @@
 ### 以下是本程序的用法：
 
 ## 1. 下载本程序
-鼠标移动至
+鼠标点击右边绿色按钮
+![image](https://github.com/user-attachments/assets/5649e1e2-0cfc-4153-8d68-80d6ff656834)
+
