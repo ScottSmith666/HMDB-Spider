@@ -39,6 +39,7 @@ Python的安装方法网上一堆，可以自行去互联网上检索。Python�
 2. `polar`字段值只能为`positive`和`negative`。
 3. `unit`字段值只能为`ppm`和`Da`。
 4. 表格大致的样式如下：
+
 | Header 1 | Header 2 |
 | -------- | -------- |
 | Cell 1 | Cell 2 |
