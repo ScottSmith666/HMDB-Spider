@@ -25,7 +25,7 @@ Python的安装方法网上一堆，可以自行去互联网上检索。Python�
 ![image](https://github.com/user-attachments/assets/8d380071-c4d2-43a4-bbd3-5b8f00ba82ff)
 #### 4. 回到本程序项目根目录，打开`query_means_by_html.py`和`query_metab_name.py`，分别定位到第21-25行，将2个`127.0.0.1`冒号右边的数字都改成你的数字，保存。
 ![image](https://github.com/user-attachments/assets/9f2d66c5-01aa-486a-b080-390ea24e003f)
-![image](https://github.com/user-attachments/assets/90a56f42-7101-486d-80cd-8f7ee0244e5a)
+![image](https://github.com/user-attachments/assets/aeee5b0b-e480-4aab-a24d-26907318c9be)
 
 ## 3. 安装本程序用到的依赖
 同样，这里仅演示针对Windows 11系统的方法，Linux用户和Mac用户视为默认掌握一定计算机技巧的人士，这里便不再演示。
