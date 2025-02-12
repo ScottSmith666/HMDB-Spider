@@ -12,11 +12,17 @@
 
 或者在终端用命令`git clone https://github.com/ScottSmith666/HMDB-Spider.git`直接克隆至你的PC上也可。
 
-## 2. 安装Python
+## 2. 安装Python和配置代理
 Python的安装方法网上一堆，可以自行去互联网上检索。Python版本大致在3.10至3.12即可，本人设备上的Python版本是3.12。
 
+### （很重要！！）由于本程序的翻译模块调用了谷歌翻译的接口，因此需要进行系统代理才能正常运行。
+
+### 这里仅演示针对Windows 11系统的方法，Linux用户和Mac用户视为默认掌握一定计算机技巧的人士，这里便不再演示Linux和macOS上的安装方法。
+#### 1. 打开你的梯子软件。
+#### 2. 进入`Windows设置 > 网络和Internet > 代理`
+
 ## 3. 安装本程序用到的依赖
-这里仅演示针对Windows 11系统的方法，Linux用户和Mac用户视为默认掌握一定计算机技巧的人士，这里不再演示Linux和macOS上的安装方法。
+同样，这里仅演示针对Windows 11系统的方法，Linux用户和Mac用户视为默认掌握一定计算机技巧的人士，这里便不再演示。
 
 进入本程序项目的根目录，能看到这些文件：
 ![image](https://github.com/user-attachments/assets/bd650ab8-bf25-4be8-b2b0-8f20b8ad7097)
