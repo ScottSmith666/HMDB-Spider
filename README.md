@@ -64,7 +64,7 @@ Python的安装方法网上一堆，可以自行去互联网上检索。Python�
 
 然后根据第3节的方法打开终端，输入`python query_metab_name.py`，回车。
 
-然后耐心等待本程序运行完毕！enjoy it~
+然后耐心等待本程序运行完毕！结果在“out”文件夹内。enjoy it~
 
 运行效果：
 ![屏幕截图 2025-02-12 203610](https://github.com/user-attachments/assets/143b4d09-9f1e-4989-a95e-a9776637b8df)
