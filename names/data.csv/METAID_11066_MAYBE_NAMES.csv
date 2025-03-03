@@ -1,2 +1,0 @@
-query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
-375.2483966,HMDB0245653,"4,7,13,16,21,24-Hexaoxa-1,10-diazabicyclo[8.8.8]hexacosane",C18H36N2O6,376.257336887,M-H,-,375.250061,4,181.9045

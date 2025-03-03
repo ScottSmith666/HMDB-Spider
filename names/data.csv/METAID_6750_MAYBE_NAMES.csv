@@ -1,2 +1,0 @@
-query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
-795.416111,HMDB0031025,Betavulgaroside IV,C41H62O15,794.408871314,M+H,+,795.416147,0,271.6

@@ -1,3 +1,0 @@
-query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
-299.2227431,HMDB0011562,MG(14:1(9Z)/0:0/0:0),C17H32O4,300.230059512,M-H,-,299.222784,0,176.50433333333334
-299.2227431,HMDB0011531,MG(0:0/14:1(9Z)/0:0),C17H32O4,300.230059512,M-H,-,299.222784,0,179.19766666666666

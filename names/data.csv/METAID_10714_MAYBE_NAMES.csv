@@ -1,3 +1,0 @@
-query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
-344.2442341,HMDB0246831,5-Nitroxystearic acid,C18H35NO5,345.251523231,M-H,-,344.244247,0,176.017
-344.2442341,HMDB0061637,3-hydroxyundecanoyl carnitine,C18H35NO5,345.251523235,M-H,-,344.244247,0,193.064

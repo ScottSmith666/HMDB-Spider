@@ -1,2 +1,0 @@
-query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
-248.0586751,HMDB0252436,Forchlorfenuron,C12H10ClN3O,247.051239664,M+H,+,248.058516,1,151.6615

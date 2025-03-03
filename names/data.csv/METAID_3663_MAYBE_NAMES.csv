@@ -1,3 +1,0 @@
-query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
-296.1023391,HMDB0255536,Nepicastat,C14H15F2N3S,295.095474995,M+H,+,296.102751,1,165.852
-296.1023391,HMDB0014781,Mebendazole,C16H13N3O3,295.095691297,M+H,+,296.102967,2,170.19225

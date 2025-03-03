@@ -1,2 +1,0 @@
-query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
-490.2785617,HMDB0341112,"(2E,6E,11E,13E)-18-(2,6-dioxopiperidin-4-yl)-9-hydroxy-8-methoxy-10,12,14-trimethyl-15-oxooctadeca-2,6,11,13-tetraenoic acid",C27H39NO7,489.2726526,M+H,+,490.279929,3,

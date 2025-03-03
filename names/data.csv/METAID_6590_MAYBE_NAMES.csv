@@ -1,2 +1,0 @@
-query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
-727.5653998,HMDB0304524,ubiquinone-8,C49H74O4,726.558710856,M+H,+,727.565987,1,286.898

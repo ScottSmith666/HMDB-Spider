@@ -1,2 +1,0 @@
-query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
-239.0671871,HMDB0032559,"(Â±)-2-(1-Methylpropyl)-4,6-dinitrophenol",C10H12N2O5,240.074621504,M-H,-,239.067346,1,153.68766666666667

@@ -1,2 +1,0 @@
-query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
-444.141357,HMDB0257276,(4-{2-[(4-Carbamimidoyl-benzoyl)-methyl-amino]-acetyl}-2-carboxymethoxy-phenoxy)-acetic acid,C21H21N3O8,443.132864648,M+H,+,444.140141,3,193.423

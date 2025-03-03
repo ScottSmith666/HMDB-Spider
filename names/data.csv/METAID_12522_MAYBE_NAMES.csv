@@ -1,2 +1,0 @@
-query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
-611.1448553,HMDB0003337,Oxidized glutathione,C20H32N6O12S2,612.151961898,M-H,-,611.144686,0,220.489

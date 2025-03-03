@@ -1,3 +1,0 @@
-query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
-228.1602567,HMDB0253340,Icaridin,C12H23NO3,229.167793607,M-H,-,228.160518,1,156.8005
-228.1602567,HMDB0013267,N-Decanoylglycine,C12H23NO3,229.167793607,M-H,-,228.160518,1,155.93333333333334

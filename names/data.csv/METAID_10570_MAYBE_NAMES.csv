@@ -1,3 +1,0 @@
-query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
-328.0854139,HMDB0060801,8-Hydroxyamoxapine,C17H16ClN3O2,329.093104478,M-H,-,328.085828,1,176.504
-328.0854139,HMDB0060799,7-Hydroxyamoxapine,C17H16ClN3O2,329.093104478,M-H,-,328.085828,1,175.158

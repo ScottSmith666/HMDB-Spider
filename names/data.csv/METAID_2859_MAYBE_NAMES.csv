@@ -1,2 +1,0 @@
-query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
-216.9224236,HMDB0245833,3-Chloro-4-(dichloromethyl)-5-hydroxy-2(5H)-furanone,C5H3Cl3O3,215.9147771,M+H,+,216.922053,2,140.2425

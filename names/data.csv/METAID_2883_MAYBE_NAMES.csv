@@ -1,2 +1,0 @@
-query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
-217.1046109,HMDB0259242,Trimethylolmelamine,C6H12N6O3,216.09708827,M+H,+,217.104364,1,144.911

@@ -1,2 +1,0 @@
-query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
-728.5650377,HMDB0035990,Cerebroside B,C41H77NO9,727.559833067,M+H,+,728.567109,3,281.91433333333333

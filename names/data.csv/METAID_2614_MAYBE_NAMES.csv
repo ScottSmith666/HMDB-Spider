@@ -1,5 +1,0 @@
-query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
-190.0712406,HMDB0032499,"Pyrrolidino-[1,2E]-4H-2,4-dimethyl-1,3,5-dithiazine",C8H15NS2,189.064590865,M+H,+,190.071867,3,140.07533333333333
-190.0712406,HMDB0031574,1-Isothiocyanato-6-(methylthio)hexane,C8H15NS2,189.064590865,M+H,+,190.071867,3,143.316
-190.0712406,HMDB0000590,Glutarylglycine,C7H11NO5,189.063722467,M+H,+,190.070998,1,140.431
-190.0712406,HMDB0001138,N-Acetyl-L-glutamic acid,C7H11NO5,189.063722467,M+H,+,190.070998,1,139.03133333333332

@@ -1,3 +1,0 @@
-query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
-330.0769892,HMDB0247240,7-Chloro-N-[3-(2-nitroimidazol-1-yl)propyl]quinolin-4-amine,C15H14ClN5O2,331.0836024,M-H,-,330.076326,2,164.799
-330.0769892,HMDB0029367,Sanguinarine,C20H14NO4,332.092282941,M-H,-,330.077731,2,179.826
