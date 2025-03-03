@@ -1,0 +1,2 @@
+query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
+555.1722079,HMDB0034268,Lippioside II,C25H30O14,554.163555668,M+H,+,555.170832,2,218.297

@@ -1,0 +1,2 @@
+query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
+368.3152017,HMDB0062335,N-Oleoyl GABA,C22H41NO3,367.308644184,M+H,+,368.31592,2,201.7023333333333

@@ -1,0 +1,2 @@
+query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
+376.8094583,HMDB0303479,Talc,H2Mg3O12Si4,377.817457354,M-H,-,376.810181,2,188.865

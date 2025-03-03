@@ -136,4 +136,4 @@ if __name__ == "__main__":
         
         gen_all_metab_names.merge(BASE_PATH, origin_file_name)
 
-    query_means_by_html.query_translate_means("%s%s%s" % (BASE_PATH, PATH_SEP, "out"))
+    query_means_by_html.run("%s%s%s" % (BASE_PATH, PATH_SEP, "out"))

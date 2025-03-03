@@ -1,0 +1,2 @@
+query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
+351.1585428,HMDB0251232,Dienestrol diacetate,C22H22O4,350.151809188,M+H,+,351.159085,2,186.4355

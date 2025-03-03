@@ -1,0 +1,2 @@
+query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
+308.8644199,HMDB0244214,"1,4-Diiodobutane",C4H8I2,309.87154,M-H,-,308.864264,1,162.5065

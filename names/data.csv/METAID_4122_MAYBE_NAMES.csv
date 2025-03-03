@@ -1,0 +1,2 @@
+query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
+340.120105,HMDB0254834,Moguisteine,C16H21NO5S,339.114043954,M+H,+,340.12132,4,172.868

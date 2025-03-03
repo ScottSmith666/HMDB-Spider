@@ -1,0 +1,2 @@
+query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
+256.0872208,HMDB0255306,N7-(2-((Hydroxyethyl)thio)ethyl)guanine,C9H13N5O2S,255.078995853,M+H,+,256.086272,4,153.903

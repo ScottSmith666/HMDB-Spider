@@ -1,0 +1,5 @@
+query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
+112.1123527,HMDB0257003,Pyrrolizidine,C7H13N,111.104799423,M+H,+,112.112075,2,125.615
+112.1123527,HMDB0247421,8-Azabicyclo[3.2.1]octane,C7H13N,111.104799423,M+H,+,112.112075,2,129.1345
+112.1123527,HMDB0257057,Quinuclidine,C7H13N,111.104799423,M+H,+,112.112075,2,124.6585
+112.1123527,HMDB0303164,Heptanenitrile,C7H13N,111.104799421,M+H,+,112.112075,2,132.138

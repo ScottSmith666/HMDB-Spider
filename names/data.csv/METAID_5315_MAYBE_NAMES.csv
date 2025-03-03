@@ -1,0 +1,2 @@
+query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
+475.2097518,HMDB0256152,N-(2-Benzyl-3-((2-amino-4-methylpentyl)dithio)-1-oxopropyl)glycine benzyl ester,C25H34N2O3S2,474.201085311,M+H,+,475.208361,3,214.08

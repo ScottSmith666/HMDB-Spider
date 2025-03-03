@@ -1,0 +1,2 @@
+query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
+689.3251133,HMDB0015566,Dalfopristin,C34H50N4O9S,690.329849908,M-H,-,689.322574,4,236.6

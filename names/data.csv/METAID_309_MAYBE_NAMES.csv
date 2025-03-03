@@ -1,0 +1,2 @@
+query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
+195.1225123,HMDB0094708,Tetraethylene glycol,C8H18O5,194.115423686,M+H,+,195.1227,1,142.43033333333332

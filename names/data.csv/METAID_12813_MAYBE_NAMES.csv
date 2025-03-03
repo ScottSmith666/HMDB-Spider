@@ -1,0 +1,3 @@
+query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
+726.5894679,HMDB0010709,Galactosylceramide (d18:1/18:0),C42H81NO8,727.596218573,M-H,-,726.588943,1,276.8403333333333
+726.5894679,HMDB0004972,GlcCer(d18:1/18:0),C42H81NO8,727.596218573,M-H,-,726.588943,1,272.841

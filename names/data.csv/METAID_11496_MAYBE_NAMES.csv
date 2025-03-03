@@ -1,0 +1,4 @@
+query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
+433.2629851,HMDB0251664,"Urea, N-butyl-N'-(2-(3-(5-ethyl-4-phenyl-1H-imidazol-1-yl)propoxy)-6-methylphenyl)-",C26H34N4O2,434.268176351,M-H,-,433.2609,5,203.259
+433.2629851,HMDB0249965,Kaspar,C26H34N4O2,434.268176351,M-H,-,433.2609,5,197.718
+433.2629851,HMDB0037511,Butyl oleate sulfate,C22H42O6S,434.270209766,M-H,-,433.262934,0,208.81066666666663

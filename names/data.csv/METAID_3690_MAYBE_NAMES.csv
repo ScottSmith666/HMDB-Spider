@@ -1,0 +1,2 @@
+query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
+298.1099681,HMDB0259284,Tritiozine,C14H19NO4S,297.10347927,M+H,+,298.110755,3,166.875

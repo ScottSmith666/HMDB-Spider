@@ -1,0 +1,2 @@
+query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
+236.1052076,HMDB0255167,n-methacryloyl-l-histidine methyl ester,C11H15N3O3,237.111341355,M-H,-,236.104065,5,151.772

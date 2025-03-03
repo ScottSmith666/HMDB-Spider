@@ -1,0 +1,5 @@
+query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
+307.0825548,HMDB0038361,(-)-Epigallocatechin,C15H14O7,306.073952802,M+H,+,307.081229,4,170.3315
+307.0825548,HMDB0303660,Leucocyanidin,C15H14O7,306.073952802,M+H,+,307.081229,4,171.247
+307.0825548,HMDB0038365,(+)-Gallocatechin,C15H14O7,306.073952791,M+H,+,307.081229,4,172.00333333333333
+307.0825548,HMDB0302404,4-Gallocatechol,C15H14O7,306.073952802,M+H,+,307.081229,4,172.589

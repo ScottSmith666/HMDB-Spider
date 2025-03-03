@@ -1,0 +1,3 @@
+query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
+277.0978869,HMDB0254414,Meisoindigo,C17H12N2O2,276.089877634,M+H,+,277.097154,3,
+277.0978869,HMDB0244962,2-[(E)-2-(3-Nitrophenyl)vinyl]quinoline,C17H12N2O2,276.089877634,M+H,+,277.097154,3,168.203

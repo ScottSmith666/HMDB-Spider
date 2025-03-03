@@ -1,0 +1,2 @@
+query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
+278.1963581,HMDB0242539,"(2R,3S)-3-(6-Amino-9H-purin-9-yl)nonan-2-ol",C14H23N5O,277.190260381,M+H,+,278.197536,4,169.401

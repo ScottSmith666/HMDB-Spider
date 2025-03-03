@@ -1,0 +1,2 @@
+query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
+400.3057729,HMDB0241939,N-Stearoyl Aspartic acid,C22H41NO5,399.298473424,M+H,+,400.305749,0,206.127

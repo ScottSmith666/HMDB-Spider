@@ -1,0 +1,3 @@
+query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
+335.2939374,HMDB0031099,"(all-Z)-7,10,13-Docosatrienoic acid",C22H38O2,334.28718046,M+H,+,335.294456,2,192.92
+335.2939374,HMDB0002823,Docosatrienoic acid,C22H38O2,334.28718046,M+H,+,335.294456,2,192.022

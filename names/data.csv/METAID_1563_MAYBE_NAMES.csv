@@ -1,0 +1,2 @@
+query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
+212.2008379,HMDB0037834,Ethyl menthane carboxamide,C13H25NO,211.193614427,M+H,+,212.20089,0,152.59533333333334

@@ -2,8 +2,9 @@ import os
 import pandas as pd
 
 
+PATH_SEP = os.sep
+
 def merge(path, origin_filename):
-    PATH_SEP = os.sep
 
     all_csv_head = ["metab_num_id", "query_mass", "compound_id", "compound_name", "formula", "monoisotopic_mass", "adduct", "adduct_type", "adduct_m/z", "delta(ppm),", "ccs_value"]
     all_df = pd.DataFrame(columns=all_csv_head)

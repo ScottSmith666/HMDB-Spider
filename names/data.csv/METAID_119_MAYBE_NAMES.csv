@@ -1,0 +1,3 @@
+query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
+318.2996248,HMDB0304183,4-hydroxysphinganine,C18H39NO3,317.29299412,M+H,+,318.30027,2,187.997
+318.2996248,HMDB0004610,Phytosphingosine,C18H39NO3,317.292994119,M+H,+,318.30027,2,191.8766

@@ -1,0 +1,2 @@
+query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
+342.3367324,HMDB0240592,Palmitoylcholine,C21H44NO2,342.336656081,M+H,+,342.336656,0,195.9645

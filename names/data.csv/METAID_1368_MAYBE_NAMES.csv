@@ -1,0 +1,2 @@
+query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
+252.1590498,HMDB0245262,2-Nitrophenyl octyl ether,C14H21NO3,251.15214354,M+H,+,252.15942,1,161.673

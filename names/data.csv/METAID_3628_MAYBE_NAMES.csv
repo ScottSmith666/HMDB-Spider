@@ -1,0 +1,4 @@
+query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
+294.1009272,HMDB0254986,N-(2-Guanidinoethyl)-5-isoquinolinesulfonamide,C12H15N5O2S,293.094645917,M+H,+,294.101922,3,162.9105
+294.1009272,HMDB0253596,Islatravir,C12H12FN5O3,293.092417429,M+H,+,294.099693,4,166.305
+294.1009272,HMDB0259142,Triadimefon,C14H16ClN3O2,293.093104478,M+H,+,294.10038,2,166.3585

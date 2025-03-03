@@ -1,0 +1,2 @@
+query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
+166.1336405,HMDB0253436,Immepip,C9H15N3,165.126597495,M+H,+,166.133873,1,135.5915

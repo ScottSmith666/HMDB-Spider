@@ -1,0 +1,2 @@
+query_mass,compound_id,compound_name,formula,monoisotopic_mass,adduct,adduct_type,adduct_m/z,"delta(ppm),",ccs_value
+383.1427829,HMDB0258928,Tetraphenylcyclopentadienone,C29H20O,384.151415264,M-H,-,383.144139,4,187.7735
