@@ -76,6 +76,10 @@ def query(meta_id, url, mzmed, pn, path, sum, now, adduct_type, tolerance_value,
 
 if __name__ == "__main__":
     print("Welcome to use HMDB Spider!\nDeveloped by Scott Smith\n如果对您有帮助的话，可以请我一杯咖啡哦~")
+    # out输出文件夹如没有，则新建一个
+    if not os.path.exists("%s%sout" % (BASE_PATH, PATH_SEP)):
+        os.mkdir("%s%sout" % (BASE_PATH, PATH_SEP))
+    
     # 遍历多个文件查找代谢峰对应代谢物信息
     for origin_file_name in os.listdir("%s%sorigin_read_data" % (BASE_PATH, PATH_SEP)):
         with open("%s%serror.csv" % (BASE_PATH, PATH_SEP), "a") as e:  # 爬取错误的代谢峰信息写入“error.csv”中
